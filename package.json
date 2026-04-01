@@ -1,0 +1,32 @@
+{
+  "name": "claude-md",
+  "version": "1.0.0",
+  "description": "Auto-generate CLAUDE.md for any project using Claude AI.",
+  "main": "src/index.js",
+  "bin": {
+    "claude-md": "./bin/index.js"
+  },
+  "type": "module",
+  "author": "sam_the_chad",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+  "claude",
+  "claude-md",
+  "ai",
+  "documentation",
+  "markdown",
+  "generator",
+  "developer-tools",
+  "automation",
+  "llm",
+  "docs"
+  ],
+  "files": [
+    "bin",
+    "src"
+  ],
+  "engines": {
+    "node": ">=16"
+  }
+}
